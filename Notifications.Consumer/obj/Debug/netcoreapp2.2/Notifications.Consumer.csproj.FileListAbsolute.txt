@@ -1,0 +1,14 @@
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\Notifications.Consumer.deps.json
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\Notifications.Consumer.runtimeconfig.json
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\Notifications.Consumer.runtimeconfig.dev.json
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\Notifications.Consumer.dll
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.csprojAssemblyReference.cache
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.csproj.CoreCompileInputs.cache
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.AssemblyInfoInputs.cache
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.AssemblyInfo.cs
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\Notifications.Consumer.pdb
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\NotificationsXDomain.dll
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\bin\Debug\netcoreapp2.2\NotificationsXDomain.pdb
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.csproj.CopyComplete
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.dll
+C:\Gaurav\projects\NotificationsX\NotificationsXAPI\Notifications.Consumer\obj\Debug\netcoreapp2.2\Notifications.Consumer.pdb
